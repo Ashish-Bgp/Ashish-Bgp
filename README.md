@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
 
 I'm Ashish Ranjan, a full-stack web developer and mobile app developer passionate about building innovative solutions.
 
