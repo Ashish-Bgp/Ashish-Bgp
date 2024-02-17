@@ -1,11 +1,32 @@
-👋 Hi, I’m Ashish Ranjan
-⚛️ I'm a Passionate and Dedicated Full Stack Web developer And Mobile App Developer  ✨.
-🌍 I'm from Bhagalpur, Bihar
-⚛️The technologies i love to work includes HTML, CSS, MERN stack, Typescript, React-Native & Android Studio.
-💞️ I'm looking to collaborate on exciting web and mobile projects that push the boundaries of technology and user experience.
-🚀 Besides coding, I love playing BAsketBall, travelling and Listening Music.
+# Hi there! 👋
 
-<!---
-Ashish-Bgp/Ashish-Bgp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Ashish Ranjan, a full-stack web developer and mobile app developer passionate about building innovative solutions.
+
+## Web Development 💻
+
+I specialize in:
+
+- Frontend: HTML, CSS, JavaScript (React.js)
+- Backend: Node.js, Express.js
+- Databases: MongoDB, MySQL
+
+I'm proficient in version control using Git and experienced in deploying applications using platforms like Heroku and Netlify.
+
+## Mobile App Development 📱
+
+I have expertise in:
+
+- React Native
+- Android Studio
+
+
+## Open Source Contributions 🚀
+
+I actively contribute to open-source projects and enjoy collaborating with developers worldwide.
+
+## Let's Connect 🌐
+
+I'm open to new opportunities and collaborations. Feel free to reach out via [email](mailto:your.cseashishranjan@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ashish-ranjan-04aa41217).
+
+Looking forward to connecting with you!
+
